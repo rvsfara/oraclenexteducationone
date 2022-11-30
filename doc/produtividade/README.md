@@ -1,4 +1,4 @@
-# Produtividade
+# Produtividade: Foco
 
 ### O inimigo invisível
 
@@ -22,10 +22,20 @@ nessas ações totalmente.
 
 ### Determinação, simplicidade, foco em pequenas tarefas
 
-Ser determinado, focar em pequenas tarefas dividir para conquistar, ao criar cada
-hábito dar tempo suficiente para o mesmo se concretizar.
+Ser determinado, focar em pequenas tarefas dividir para conquistar, evitar
+distrações, ao criar cada hábito dar tempo suficiente para o mesmo se concretizar.
 
 As rotinas tornam mais fácil executar tarefas simples, deixando tempo para fazer
 tarefas mais complexas.
+Devemos estabelecer prioridades e buscar realizar sempre as mais prioritárias pela
+manhã.
 
+Dormir é necessário para renovar as energias e melhorar a produtividade
+
+A força de vontade funciona como um músculo. Quanto mais a desenvolvermos, mais
+poderemos usá-la em sua rotina. Começar com desafios menores antes de encarar as
+metas mais complicadas.
+
+Recompensa, ao concluir tarefas maiores, dar um tempo e recompensar o cerébro com
+algo prazeroso. Isto irá nos estimular a completar mais tarefas.
 
