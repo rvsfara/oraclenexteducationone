@@ -36,6 +36,25 @@ A força de vontade funciona como um músculo. Quanto mais a desenvolvermos, mai
 poderemos usá-la em sua rotina. Começar com desafios menores antes de encarar as
 metas mais complicadas.
 
-Recompensa, ao concluir tarefas maiores, dar um tempo e recompensar o cerébro com
-algo prazeroso. Isto irá nos estimular a completar mais tarefas.
+Recompensa, ao concluir tarefas maiores, dar um tempo e recompensar o cerébro com algo prazeroso. Isto irá nos estimular a completar mais tarefas.
+### Meta SMART
+Specific (Específica)
+
+Mensurable (Mensurável)
+
+Attainable (Alcancável)
+
+Relevant (Relevante)
+
+Time-related (Tempo)
+
+1. Objetivo: Ler mais Livros, Criar um Blog.
+2. Meta detalha ações, quantidades e datas para um objetivo: Escrever 4 artigos por mês para o meu blog, ir a academia 3 vezes por semana.
+
+Loop do Hábito: a deixa (estímulo para iniciar um hábito), a rotina e a recompensa.
+
+
+ 
+
+
 
