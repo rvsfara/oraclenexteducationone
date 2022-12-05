@@ -65,6 +65,15 @@ Disciplina é a capacidade de se manter focado nas tarefas necessárias para con
 
 Na prática, a Técnica Pomodoro consiste em trabalhar por blocos de tempo, chamados de pomodoro, que foi desenvolvido por Francesco Cirillo no final dos anos 1980. A ideia é utilizar um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos. A técnica deriva seu nome da palavra italiana pomodoro (tomate), como referência ao popular cronômetro gastronômico na forma desta fruta. O [método](https://www.wsj.com/articles/SB10001424052748704538404574541590534797908) é baseado na ideia de que pausas frequentes podem aumentar a [agilidade mental](http://www.cell.com/neuron/abstract/S0896-6273%2810%2900006-1).
 
+### GTD (Getting Things Done) 
+GTD é um método de produtividade criado por David Allen.
+1. Criar Listas de Tarefas.
+2. Processar.
+3. Organização.
+4. Revisão.
+5. Execução.
+
+
 
 
 
