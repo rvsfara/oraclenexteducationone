@@ -53,8 +53,19 @@ Time-related (Tempo)
 
 Loop do Hábito: a deixa (estímulo para iniciar um hábito), a rotina e a recompensa.
 
+O Dr. Maxwell Maltz observou que seus pacientes levavam no mínimo 21 dias para se acostumarem com o seu rosto após uma intervenção cirúrgica. Com o passar do tempo, as pessoas achavam que 21 era um número mágico para criar um novo hábito.
 
- 
+Em um [estudo](http://onlinelibrary.wiley.com/doi/10.1002/ejsp.674/abstract) publicado no European Journal of Social Psychology, Phillippa Lally e sua equipe de pesquisa descobriram que leva entre 18 dias e 8 meses para se criar um hábito. 
+
+Hábito chave são hábitos que ajudam a melhorar outros, por exemplo dormir 8 horas por dia nos ajuda a estar mais disposto para o próximo dia, ou realizar 20 a 30 minutos de exercício por dia e comer alimentos saudáveis.
+
+Disciplina é a capacidade de se manter focado nas tarefas necessárias para concretização de uma meta sem se desviar e sem perder a motivação. 
+
+### Técnica Pomodoro.
+
+Na prática, a Técnica Pomodoro consiste em trabalhar por blocos de tempo, chamados de pomodoro, que foi desenvolvido por Francesco Cirillo no final dos anos 1980. A ideia é utilizar um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos. A técnica deriva seu nome da palavra italiana pomodoro (tomate), como referência ao popular cronômetro gastronômico na forma desta fruta. O [método](https://www.wsj.com/articles/SB10001424052748704538404574541590534797908) é baseado na ideia de que pausas frequentes podem aumentar a [agilidade mental](http://www.cell.com/neuron/abstract/S0896-6273%2810%2900006-1).
+
+
 
 
 
