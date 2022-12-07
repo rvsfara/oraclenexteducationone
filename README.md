@@ -1,4 +1,5 @@
 # Curso Oracle Next Education One
+Curso destinado a formação profissional de Desenvolvedores
 
 ### [Introdução - Neste mesmo curso](doc/README.md)
 
