@@ -1,3 +1,4 @@
+### [Voltar - Neste mesmo curso](../README.md)
 # Produtividade: Foco
 
 ### O inimigo invisível
@@ -72,6 +73,11 @@ GTD é um método de produtividade criado por David Allen.
 3. Organização.
 4. Revisão.
 5. Execução.
+
+### Lei da Eficiência Forçada
+Nunca há tempo para fazer tudo, mas sempre há tempo para fazer o mais importante.
+
+### [Voltar - Neste mesmo curso](../README.md)
 
 
 
