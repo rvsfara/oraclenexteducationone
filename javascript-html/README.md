@@ -12,7 +12,8 @@
         Frase 1
         <br />
         Frase 2
-        <script>
+        <a href="https://www.linkedin.com/in/rvsfara/">Meu LinkedIn</a>
+        <script type="text/javascript">
             alert("Exemplo de alerta");
         </script>
     </body>
