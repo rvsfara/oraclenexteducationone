@@ -15,5 +15,5 @@ Curso de JavaScript ensinando as principais caracteristícas da linguagem.
 
 [JavaScript e HTML](javascript-html/README.md)
 
-
+Curso ensinando Canvas e Animação em JavaScript
 
