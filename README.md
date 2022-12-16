@@ -17,3 +17,9 @@ Curso de JavaScript ensinando as principais caracteristícas da linguagem.
 
 Curso ensinando Canvas e Animação em JavaScript
 
+## Curso Oracle Fase 2
+
+## Curso Oracle Faze 3
+
+## Certificação Oracle
+
